@@ -1,2 +1,0 @@
-# BarraProgresoVue
-Created with CodeSandbox
